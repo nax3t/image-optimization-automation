@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.2
+certifi==2023.11.17
+cloudinary==1.37.0
+six==1.16.0
+soupsieve==2.5
+urllib3==2.1.0

@@ -1,0 +1,10 @@
+#home-hero-bg {
+    background-image: url('images/hero.jpg');
+}
+
+#image-set-with-css {
+    background-image: url("images/dog.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 600px;
+}
