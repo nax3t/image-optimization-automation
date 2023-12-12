@@ -2,6 +2,9 @@
 
 ## Usage
 
+### Sign up for Cloudinary
+Visit [Cloudinary](https://cloudinary.com) and sign up for a free account. You can find your Cloudname, API Key, and API Secret in the Dashboard after logging in.
+
 ### Check if Python is installed
 To check if Python is installed on your system, open a terminal and run: `python --version`
 
