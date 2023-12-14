@@ -26,7 +26,7 @@ def upload_image(image_path):
     response = uploader.upload(image_path, format="webp")
     secure_url = response.get('secure_url')
     if secure_url:
-        secure_url = secure_url.replace('/upload/', '/upload/q_auto/w_auto/')
+        secure_url = secure_url.replace('/upload/', '/upload/f_auto,q_auto/w_auto/')
     return secure_url
 
 def find_images(directory):
