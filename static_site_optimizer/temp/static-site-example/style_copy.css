@@ -1,0 +1,10 @@
+#home-hero-bg {
+    background-image: url('https://res.cloudinary.com/devsprout2023/image/upload/f_auto,q_auto/w_auto/v1707438972/ypskjx0uqwcsfqrbvr43.webp');
+}
+
+#image-set-with-css {
+    background-image: url("https://res.cloudinary.com/devsprout2023/image/upload/f_auto,q_auto/w_auto/v1707438978/cc3lgwprgqrqt4bx8xiw.webp");
+    background-size: cover;
+    width: 400px;
+    height: 600px;
+}
